@@ -1,4 +1,4 @@
-<model-viewer bounds="tight" enable-pan src="Table (1).gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1">
+<model-viewer bounds="tight" enable-pan src="Table V2.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="pillars_1k.hdr" poster="poster.webp" shadow-intensity="1.58" exposure="0.77" shadow-softness="1">
 
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
